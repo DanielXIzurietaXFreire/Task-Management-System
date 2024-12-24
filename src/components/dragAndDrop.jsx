@@ -13,7 +13,6 @@ const Header = ({ onLogout }) => {
     );
 };
 
-// Definición del componente Footer
 const Footer = () => {
     return (
         <footer className="bg-dark text-white text-center py-3">
